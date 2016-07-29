@@ -1,0 +1,18 @@
+@import '../common/_reset.scss';
+@import '../common/_vars.scss';
+@import '../common/_mixins.scss';
+@import '../common/_common.scss';
+
+h1 {
+  font-size: 2em;
+  font-weight:bold;
+  margin-left: 2em;
+}
+
+.welcome {
+  padding: 1em;
+  margin: 2em;
+  font-size: 1.2em;
+  color: #333;
+  border: 1px solid #333;
+}

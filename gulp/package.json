@@ -1,0 +1,41 @@
+{
+  "name": "assetic-gulp-booster",
+  "description": "Optimize css and javascript to reduce website loading time.",
+  "version": "1.0.0",
+  "main": "../gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelvi/assetic-gulp-booster"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "readme": "README.md",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-clean-css": "2.0.12",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.2.0",
+    "node-sass": "^3.4.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-cssnano": "^2.1.1",
+    "require-dir": "0.3.0",
+    "gulp-inject": "3.0.0",
+    "browser-sync": "^2.9.6",
+    "command-line-args": "^2.1.6",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-inline-css": "^3.0.0",
+    "gulp-util": "^3.0.7",
+    "url": "^0.11.0",
+    "events": "1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+@import 'mixins';
+@import 'vars';
+
+* {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;;
+  font-size: 1em;
+}
+
+body {
+  background-color: $background-color;
+  padding: 1em;
+}
+
+td {
+  border: 1px solid green;
+}
